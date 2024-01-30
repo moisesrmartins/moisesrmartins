@@ -1,6 +1,6 @@
 ---
 Nome Completo: Moisés Rodrigues Martins
-Idade: 19
+Idade: 20
 Pode me chamar de: moisesmartins
 Individualidade: Criatividade
 Linguagem Preferida: REACT
@@ -24,6 +24,7 @@ Me chamo Moisés Rodrigues Martins, conhecido também como **moisesmartins**, so
 ## O Que estou Estudando no momento ?
 
 Agora, estudo **REACT**, e pretendo continuar estudando para me aprimorar cada vez mais.
+Agora, começo meus estudos em C#.
 
 ## Onde me Encontrar, Interagir e Conhecer mais sobre mim
 - [ Twitter ](https://twitter.com/MoisesM45618859)
