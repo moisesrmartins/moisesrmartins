@@ -1,6 +1,6 @@
 ---
 Nome Completo: Moisés Rodrigues Martins
-Idade: 20
+Idade: 21
 Pode me chamar de: moisesmartins
 Individualidade: Criatividade
 Linguagem Preferida: NEXTJS
