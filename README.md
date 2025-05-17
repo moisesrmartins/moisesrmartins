@@ -1,14 +1,16 @@
 ---
 Nome Completo: Moisés Rodrigues Martins
-Idade: 21
 Pode me chamar de: moisesmartins
+Idade: 21
 Individualidade: Criatividade
 Linguagem Preferida: NEXTJS
 ---
 
 ## Quem Sou ?
 
-Me chamo Moisés Rodrigues Martins, conhecido também como **moisesmartins**, sou DEV desde 2021, sempre estudando e aprendendo. Comecei aos poucos, estudando **algoritmo, HTML5, CSS3 e JAVASCRIPT**, após um tempo dei inicio ao estudo de **REACT** e a **MARKDOWN**. Tenho como foco principal o REACT e busco trabalhar com o mesmo.
+Me chamo Moisés Rodrigues Martins, conhecido também como **moisesmartins**, sou DEV desde 2021, sempre estudando e aprendendo. Comecei aos poucos, estudando **algoritmo, HTML5, CSS3 e JAVASCRIPT**, após um tempo dei inicio ao estudo de **REACT** e a **MARKDOWN**. Tenho como foco principal o NEXTJS e busco trabalhar com o mesmo.
+
+Me chamo Moisés Rodrigues Martins, conhecido também como **moisesmartins**, sou DEV desde 2021.
 
 ## O que eu **APRENDI**
 - [HTML 5](https://www.google.com/search?q=html5&rlz=1C1FCXM_pt-PTBR988BR988&sxsrf=ALiCzsbiBfGLxRIKA1BbWms89h8sH806gQ%3A1669923203842&ei=gwGJY5eHM_nO1sQPw8uBmA4&ved=0ahUKEwjX1PfalNn7AhV5p5UCHcNlAOMQ4dUDCBA&uact=5&oq=html5&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIECCMQJzIICAAQgAQQsQMyCAgAEIAEELEDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIECAAQQzIFCAAQgAQ6CggAEEcQ1gQQsAM6BwgAELADEEM6DQgAEOQCENYEELADGAE6EgguEMcBENEDEMgDELADEEMYAjoPCC4Q1AIQyAMQsAMQQxgCSgQIQRgASgQIRhgBUDVYygFg4QNoAXABeACAAXeIAeYBkgEDMC4ymAEAoAEByAETwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz-serp)
@@ -16,18 +18,17 @@ Me chamo Moisés Rodrigues Martins, conhecido também como **moisesmartins**, so
 - [JAVASCRIPT JS](https://www.javascript.com/)
 - [REACT](https://pt-br.reactjs.org/)
 - [MARKDOWN](https://www.google.com/search?q=markdown&rlz=1C1FCXM_pt-PTBR988BR988&sxsrf=ALiCzsaTPxIz9hyBB4QmZ_8rYT89bps6-g%3A1669923333020&ei=BQKJY-dn1crWxA-Kx4-oCw&ved=0ahUKEwin_sOYldn7AhVVpZUCHYrjA7UQ4dUDCBA&uact=5&oq=markdown&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCCMQJxATMgQIIxAnMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMgsIABCABBCxAxCDATIICAAQgAQQsQMyCAgAEIAEELEDMgsIABCABBCxAxCDATILCAAQgAQQsQMQgwE6CggAEEcQ1gQQsAM6BwgAELADEEM6CAgAEIAEEMsBOgUIABCABEoECEEYAEoECEYYAFCMAliRCmClDWgBcAF4AIAB0QGIAb4FkgEFMC40LjGYAQCgAQHIAQnAAQE&sclient=gws-wiz-serp)
+- [C#](https://www.google.com/search?q=c%23&oq=c%23&gs_lcrp=EgZjaHJvbWUyEQgAEEUYORhDGLEDGIAEGIoFMgcIARAAGIAEMgoIAhAAGLEDGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTI2MGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 
 ## O Que estou Estudando no momento ?
 
-Agora, estudo **REACT**, e pretendo continuar estudando para me aprimorar cada vez mais.
-Agora, começo meus estudos em C#.
+- **Python**
+- **NEXTJS**
 
 ## Onde me Encontrar, Interagir e Conhecer mais sobre mim
 - [ Twitter ](https://twitter.com/MoisesM45618859)
 - [ Instagram ](https://www.instagram.com/moisesrmartins/)
 - [ Linkedin ](https://www.linkedin.com/in/moises-rodrigues-martins-202459229/)
-- [Dev.to](https://dev.to/moisesrmartins)
-- [CodePen](https://codepen.io/moisesrmartins)
 
 ## Meus trabalhos Principais
 - [Palavra Infinita](https://palavrainfinita.vercel.app/)
