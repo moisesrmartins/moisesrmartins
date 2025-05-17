@@ -6,10 +6,6 @@ Individualidade: Criatividade
 Linguagem Preferida: REACT
 ---
 
-# Moisesmartins
-
-<a href="#"><img width="50%" height="auto" src="https://avatars.githubusercontent.com/u/90099815?v=4"/></a>
-
 ## Quem Sou ?
 
 Me chamo Moisés Rodrigues Martins, conhecido também como **moisesmartins**, sou DEV desde 2021, sempre estudando e aprendendo. Comecei aos poucos, estudando **algoritmo, HTML5, CSS3 e JAVASCRIPT**, após um tempo dei inicio ao estudo de **REACT** e a **MARKDOWN**. Tenho como foco principal o REACT e busco trabalhar com o mesmo.
