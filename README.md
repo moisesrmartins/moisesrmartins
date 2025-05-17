@@ -1,16 +1,12 @@
 ---
-Nome Completo: Moisés Rodrigues Martins
 Pode me chamar de: moisesmartins
-Idade: 21
 Individualidade: Criatividade
-Linguagem Preferida: NEXTJS
+Linguagem Preferida: Javascript/Typescript
 ---
 
 ## Quem Sou ?
 
-Me chamo Moisés Rodrigues Martins, conhecido também como **moisesmartins**, sou DEV desde 2021, sempre estudando e aprendendo. Comecei aos poucos, estudando **algoritmo, HTML5, CSS3 e JAVASCRIPT**, após um tempo dei inicio ao estudo de **REACT** e a **MARKDOWN**. Tenho como foco principal o NEXTJS e busco trabalhar com o mesmo.
-
-Me chamo Moisés Rodrigues Martins, conhecido também como **moisesmartins**, sou DEV desde 2021.
+Sou DEV desde 2021, sempre estudando e aprendendo. Comecei aos poucos, estudando **algoritmo, HTML5, CSS3 e JAVASCRIPT**, após um tempo dei inicio ao estudo de **REACT** e a **MARKDOWN**. Tenho como foco principal o NEXTJS e busco trabalhar com o mesmo.
 
 ## O que eu **APRENDI**
 - [HTML 5](https://www.google.com/search?q=html5&rlz=1C1FCXM_pt-PTBR988BR988&sxsrf=ALiCzsbiBfGLxRIKA1BbWms89h8sH806gQ%3A1669923203842&ei=gwGJY5eHM_nO1sQPw8uBmA4&ved=0ahUKEwjX1PfalNn7AhV5p5UCHcNlAOMQ4dUDCBA&uact=5&oq=html5&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIECCMQJzIICAAQgAQQsQMyCAgAEIAEELEDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIECAAQQzIFCAAQgAQ6CggAEEcQ1gQQsAM6BwgAELADEEM6DQgAEOQCENYEELADGAE6EgguEMcBENEDEMgDELADEEMYAjoPCC4Q1AIQyAMQsAMQQxgCSgQIQRgASgQIRhgBUDVYygFg4QNoAXABeACAAXeIAeYBkgEDMC4ymAEAoAEByAETwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz-serp)
@@ -23,7 +19,7 @@ Me chamo Moisés Rodrigues Martins, conhecido também como **moisesmartins**, so
 ## O Que estou Estudando no momento ?
 
 - **Python**
-- **NEXTJS**
+- **NextJS**
 
 ## Onde me Encontrar, Interagir e Conhecer mais sobre mim
 - [ Twitter ](https://twitter.com/MoisesM45618859)
@@ -34,7 +30,7 @@ Me chamo Moisés Rodrigues Martins, conhecido também como **moisesmartins**, so
 - [Palavra Infinita](https://palavrainfinita.vercel.app/)
 - [Aniversário](https://meu-seu-nosso-aniversario.vercel.app/)
 
-## Esse Sou Eu
+# Esse Sou Eu
 ## Seja BEM-VINDO ao meu Pequeno MUNDO
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/K54Li4A.png"/></a>
