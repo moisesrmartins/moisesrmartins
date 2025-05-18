@@ -54,7 +54,7 @@ Confira alguns dos meus trabalhos principais:
 
 ---
 
-## 🎉 Esse Sou Eu!
+## 🎉 Esse sou Eu!
 
 Obrigado por visitar meu pequeno mundo! Estou sempre aberto a novas conexões, ideias e oportunidades. Vamos criar algo incrível juntos? 😄
 
